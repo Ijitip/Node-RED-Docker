@@ -25,9 +25,9 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 190,
+        "payload": "Hello Epitome Technologies.",
+        "payloadType": "str",
+        "x": 180,
         "y": 180,
         "wires": [
             [
