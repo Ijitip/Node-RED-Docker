@@ -25,7 +25,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "Hello Epitome Technologies.",
+        "payload": "Welcome Epitome Technologies.",
         "payloadType": "str",
         "x": 180,
         "y": 180,
